@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         AO3 Journey: Safari Edition
 // @namespace    https://archiveofourown.org/
-// @version      3.8.1
+// @version      1.0.0
 // @description  Track your complete AO3 journey as both creator and reader (Safari Userscripts compatible). Now with local caching for faster subsequent scans!
-// @author       zephyr21
+// @author       No21_lqz
 // @match        https://archiveofourown.org/* 
 // @match        https://www.archiveofourown.org/*
 // @grant        none
