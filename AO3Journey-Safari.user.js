@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AO3 Journey: Safari Edition
+// @name         AO3 Journey: Your AO3 Annual Report
 // @namespace    https://archiveofourown.org/
 // @version      1.0.0
 // @description  Track your complete AO3 journey as both creator and reader (Safari Userscripts compatible). Now with local caching for faster subsequent scans!
@@ -9,6 +9,7 @@
 // @grant        none
 // @run-at       document-end
 // @noframes
+// @liscence     MIT
 // ==/UserScript==
 
 (function() {
