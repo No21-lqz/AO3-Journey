@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AO3 Journey: Master Integrated Edition
+// @name         AO3 Journey: Your AO3 Annual Report
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
 // @author       No21_lqz
