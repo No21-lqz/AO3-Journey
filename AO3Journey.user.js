@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         AO3 Journey: Master Integrated Edition
 // @namespace    http://tampermonkey.net/
-// @version      3.8.1
-// @author       zephyr21
+// @version      1.0.0
+// @author       No21_lqz
 // @description  Track your complete AO3 journey as both creator and reader. Now with local caching for faster subsequent scans!
 // @match        https://archiveofourown.org/*
 // @match        https://www.archiveofourown.org/*
