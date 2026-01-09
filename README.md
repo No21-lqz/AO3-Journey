@@ -193,7 +193,7 @@ MIT License - feel free to use, modify, and distribute!
 
 ## 👤 Author
 
-**zephyr21**
+**No21_lqz**
 
 ---
 
