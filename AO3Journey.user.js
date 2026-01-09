@@ -7,6 +7,7 @@
 // @match        https://archiveofourown.org/*
 // @match        https://www.archiveofourown.org/*
 // @grant        none
+// @liscence     MIT
 // ==/UserScript==
 
 (function() {
