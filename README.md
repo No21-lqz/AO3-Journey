@@ -199,9 +199,10 @@ MIT License - feel free to use, modify, and distribute!
 
 ## 💖 Acknowledgments
 
-- Inspired by Spotify Wrapped
+- Inspired by LOFTER Wrapped
 - Built for the amazing AO3 community
 - Thanks to all the fanfic writers and readers!
+- Thanks to Cursor, Gemini, Claude, and Deepseek
 
 ---
 
