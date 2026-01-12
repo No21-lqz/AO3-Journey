@@ -9,7 +9,7 @@ Track your complete AO3 journey as both a creator and reader. Get beautiful annu
 
 ---
 
-## ⚡ Quick Start
+## ⚡ Quick Start | 开始
 
 ### 💻 Chrome Users
 
@@ -27,7 +27,7 @@ Track your complete AO3 journey as both a creator and reader. Get beautiful annu
 
 ---
 
-## ✨ Features
+## ✨ Features  | 主要功能
 
 ### 📊 Annual Report ("Wrapped" Style)
 
@@ -73,7 +73,7 @@ Track your complete AO3 journey as both a creator and reader. Get beautiful annu
 
 ---
 
-## 📥 Detailed Installation
+## 📥 Detailed Installation  | 安装方式
 
 ### For Chrome
 
@@ -104,7 +104,7 @@ Track your complete AO3 journey as both a creator and reader. Get beautiful annu
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Use | 使用指南
 
 1. **Navigate to AO3**
    - Go to [archiveofourown.org](https://archiveofourown.org)
@@ -130,7 +130,7 @@ Track your complete AO3 journey as both a creator and reader. Get beautiful annu
 
 ---
 
-## 🔧 Requirements
+## 🔧 Requirements | 要求
 
 - **AO3 Account**: Must be logged in
 - **History Enabled**: Go to My Dashboard → Preferences → Misc → Turn on History
@@ -138,7 +138,7 @@ Track your complete AO3 journey as both a creator and reader. Get beautiful annu
 
 ---
 
-## 📋 Privacy & Permissions
+## 📋 Privacy & Permissions | 安全与隐私
 
 This script:
 - ✅ Reads your public profile and works
@@ -176,7 +176,7 @@ This script:
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing | 合作
 
 Contributions are welcome! Feel free to:
 - Report bugs
@@ -191,7 +191,7 @@ MIT License - feel free to use, modify, and distribute!
 
 ---
 
-## 👤 Author
+## 👤 Author | 作者
 
 **No21_lqz**
 
@@ -207,7 +207,7 @@ Enjoyed AO3 Journey? Treat me to a coffee and fuel more updates! ☕✨
 
 ---
 
-## 💖 Acknowledgments
+## 💖 Acknowledgments | 致谢
 
 - Inspired by LOFTER Wrapped
 - Built for the amazing AO3 community
