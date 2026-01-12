@@ -20,6 +20,14 @@ Thank you for considering supporting this project! Your contribution helps keep 
 
 ---
 
+## 🌍 International Users | 国际用户
+
+For international supporters, Ko-fi is available:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lqzno21)
+
+---
+
 ## 🙏 感谢名单 | Sponsor List
 
 A huge thank you to all supporters! 感谢所有支持者！
@@ -27,8 +35,6 @@ A huge thank you to all supporters! 感谢所有支持者！
 | Sponsor | Date |
 |---------|------|
 | *Be the first!* | - |
-
----
 
 *Every bit of support is deeply appreciated!*
 
