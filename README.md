@@ -9,6 +9,16 @@ Track your complete AO3 journey as both a creator and reader. Get beautiful annu
 
 ---
 
+## ☕ Buy Me a Coffee | 请我喝杯咖啡
+
+Enjoyed AO3 Journey? Treat me to a coffee and fuel more updates! ☕✨
+
+喜欢这个小工具吗？请我喝杯咖啡，支持后续更新！中国区用户建议通过微信/支付宝~
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lqzno21) [![WeChat](https://img.shields.io/badge/微信-Sponsor-07C160?style=for-the-badge&logo=wechat&logoColor=white)](./SPONSOR.md) [![Alipay](https://img.shields.io/badge/支付宝-Sponsor-1677FF?style=for-the-badge&logo=alipay&logoColor=white)](./SPONSOR.md)
+
+---
+
 ## ⚡ Quick Start | 开始
 
 ### 💻 Chrome Users
@@ -194,16 +204,6 @@ MIT License - feel free to use, modify, and distribute!
 ## 👤 Author | 作者
 
 **No21_lqz**
-
----
-
-## ☕ Buy Me a Coffee | 请我喝杯咖啡
-
-Enjoyed AO3 Journey? Treat me to a coffee and fuel more updates! ☕✨
-
-喜欢这个小工具吗？请我喝杯咖啡，支持后续更新！中国区用户建议通过微信/支付宝~
-
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lqzno21) [![WeChat](https://img.shields.io/badge/微信-Sponsor-07C160?style=for-the-badge&logo=wechat&logoColor=white)](./SPONSOR.md) [![Alipay](https://img.shields.io/badge/支付宝-Sponsor-1677FF?style=for-the-badge&logo=alipay&logoColor=white)](./SPONSOR.md)
 
 ---
 
