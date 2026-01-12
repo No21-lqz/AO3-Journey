@@ -197,6 +197,16 @@ MIT License - feel free to use, modify, and distribute!
 
 ---
 
+## ☕ Support This Project | 赞助
+
+If you find AO3 Journey useful, consider buying me a coffee! ☕
+
+如果您觉得 AO3 Journey 有帮助，欢迎赞助支持！如果您来自中国区，建议通过微信/支付宝赞助！
+
+[![WeChat](https://img.shields.io/badge/微信-Sponsor-07C160?style=for-the-badge&logo=wechat&logoColor=white)](./SPONSOR.md) [![Alipay](https://img.shields.io/badge/支付宝-Sponsor-1677FF?style=for-the-badge&logo=alipay&logoColor=white)](./SPONSOR.md)
+
+---
+
 ## 💖 Acknowledgments
 
 - Inspired by LOFTER Wrapped
