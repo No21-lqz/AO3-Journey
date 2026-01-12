@@ -30,13 +30,6 @@ A huge thank you to all supporters! 感谢所有支持者！
 
 ---
 
-## 📧 Contact | 联系方式
-
-- GitHub Issues: [Report bugs or suggest features](https://github.com/No21-lqz/AO3-Journey/issues)
-- Email: your-email@example.com
-
----
-
 *Every bit of support is deeply appreciated!*
 
 *每一份支持都是莫大的鼓励！* 💕
