@@ -197,11 +197,11 @@ MIT License - feel free to use, modify, and distribute!
 
 ---
 
-## ☕ Support This Project | 赞助
+## ☕ Buy Me a Coffee | 请我喝杯咖啡
 
-If you find AO3 Journey useful, consider buying me a coffee! ☕
+Enjoyed AO3 Journey? Treat me to a coffee and fuel more updates! ☕✨
 
-如果您觉得 AO3 Journey 有帮助，欢迎赞助支持！如果您来自中国区，建议通过微信/支付宝赞助！
+喜欢这个小工具吗？请我喝杯咖啡，支持后续更新！中国区用户建议通过微信/支付宝~
 
 [![WeChat](https://img.shields.io/badge/微信-Sponsor-07C160?style=for-the-badge&logo=wechat&logoColor=white)](./SPONSOR.md) [![Alipay](https://img.shields.io/badge/支付宝-Sponsor-1677FF?style=for-the-badge&logo=alipay&logoColor=white)](./SPONSOR.md)
 
